@@ -1,0 +1,1 @@
+<p>Hello there, world! The year is <?php echo date(Y);?>.</p>
